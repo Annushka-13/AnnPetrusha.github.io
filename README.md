@@ -6,7 +6,7 @@
 1. Была произведена регистрация в [GitHub](https://github.com).
 2. Был создан личный [репозиторий](https://github.com/Annushka-13/AnnPetrusha.github.io) для сохранения результатов выполнения лабораторных работ.
 3. Был создан [проект](https://github.com/users/Leo-alt-droid/projects/1/views/1).
-4. Был создан файл [readme.md](https://github.com/Leo-alt-droid/IT2022#readme) в личном репозитории с бланком отчета о лабораторных работах.
+4. Был создан файл [readme.md](https://github.com/Annushka-13/AnnPetrusha.github.io/blob/main/README.md) в личном репозитории с бланком отчета о лабораторных работах.
 
 ## :white_check_mark: Лабораторная работа 2
 В рамках второй лабораторной работы в составе команды ООО "Голова, глаза" был создан вспомогательный сайт для проведения IT конкурса.
