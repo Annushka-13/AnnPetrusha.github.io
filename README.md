@@ -26,9 +26,9 @@
 
 Оба файла загружены в гитхаб и их можно скачать по ссылкам ниже. Если вдруг ссылки не работаю, то вот [ссылка на гугл папку](https://drive.google.com/drive/u/0/folders/1sc_fQS57YeyKxXpU79WNuDNv79mFFx9Z?ths=true).
 
-[Перейти к отчету](https://github.com/Annushka-13/AnnPetrusha.github.io/blob/main/Петруша_отчет_ЛР6.docx?raw=true)
+[Скачать отчет](https://github.com/Annushka-13/AnnPetrusha.github.io/blob/main/Петруша_отчет_ЛР6.docx?raw=true)
 
-[Перейти к конфигурации](https://github.com/Annushka-13/AnnPetrusha.github.io/blob/main/Петруша_ЛР6.pka?raw=true)
+[Скачать конфигурацию](https://github.com/Annushka-13/AnnPetrusha.github.io/blob/main/Петруша_ЛР6.pka?raw=true)
 
 ## :white_check_mark: Экзаменационный билет №28
 [Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam28)
